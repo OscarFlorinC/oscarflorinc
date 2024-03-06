@@ -6,8 +6,8 @@
 <img src="./imagenes/isometric-devops-illustration_52683-84175.jpg" width="900" height="450">
 
 
-![GitHub Followers](https://img.shields.io/github/followers/OscarFlorin?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/OscarFlorin?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/OscarFlorinC?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/OscarFlorinC?style=social)
 
 ## Soy Ingeniero egresado de ESIME unidad Culhuacán, con mas de 13 años de experiencia.
 
@@ -65,9 +65,10 @@
 
 # --> Proyectos: <--
 
+## - Configuración inicial de Git & GitHub
 ## - Programación en Python para principiantes
 ## - Configuración inicial de RedHat8
-## - Configuración inicial de Git & GitHub
+
 
 # Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star"
 # ¡Muchas gracias, bienvenido!!!
