@@ -1,7 +1,9 @@
 # ![huitzi](./imagenes/IMG_0680.JPG)   Hola Mundo, Soy  Oscar Florín 
 ## Ingeniero en Comunicaciones y Electrónica con 13 años de experiencia, Freelance. AWS Arquitecto de Soluciones nivel Asociado, practicante de la nube GCP. | IPN OWC |.
 
-![https://github.com/OscarFlorin](./imagenes/isometric-devops-illustration_52683-84175.jpg)
+<!-- ![https://github.com/OscarFlorin](./imagenes/isometric-devops-illustration_52683-84175.jpg width="200" height="200") -->
+
+<img src="./imagenes/isometric-devops-illustration_52683-84175.jpg" width="900" height="450">
 
 
 ![GitHub Followers](https://img.shields.io/github/followers/OscarFlorin?style=social)
@@ -63,8 +65,9 @@
 
 # --> Proyectos: <--
 
-## - Optimización de entornos Linux - RedHat y macOS 
-## - Primeros pasos en VSC
+## - Programación en Python para principiantes
+## - Configuración inicial de RedHat8
+## - Configuración inicial de Git & GitHub
 
 # Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star"
 # ¡Muchas gracias, bienvenido!!!
