@@ -9,7 +9,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/OscarFlorinC?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/OscarFlorinC?style=social)
 
-## Soy Ingeniero egresado de ESIME unidad Culhuacán, con mas de 13 años de experiencia.
+## Soy Ingeniero egresado de ESIME unidad Culhuacán, con 13 años de experiencia.
 
 ### En Septiembre del 2022 estoy trabajando de la mano con StartUps, migrando, administrando y desarrollando sus servicios en la nube, enfocando mi carrera profesional en soluciones cloud. Desde el 2019 me he dedicado a especializarme en el desarrollo soluciones y aplicaciones en la nube, colaborando en distintos sectores de la tecnología de la información. 
 
@@ -65,16 +65,15 @@
 
 # --> Proyectos: <--
 
-## - Configuración inicial de Git & GitHub
+## - [Git](https://github.com/OscarFlorinC/initconf_git_github) ***Configuración inicial de Git & GitHub***
+## - [RH8](https://github.com/OscarFlorinC/initconf_rh8) ***Configuración inicial de Red Hat 8***
 ## - Programación en Python para principiantes
-## - Configuración inicial de RedHat8
 
-
-# Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star"
+# Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
 # ¡Muchas gracias, bienvenido!!!
 
 # Contacto y apoyo:
 
 [![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
 <br>[![Just Eat](https://img.shields.io/badge/Donaciones_para_tacos_🌮🌮🌮-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
-<br>[![Eats](https://img.shields.io/badge/Donaciones_alimento_para_🐈🐈-black?style=for-the-badge&logo=uber-eats&logoColor=green)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)</br>
+<br>[![Eats](https://img.shields.io/badge/Donaciones_alimento_para_gatos🐈🐈-black?style=for-the-badge&logo=uber-eats&logoColor=green)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)</br>
