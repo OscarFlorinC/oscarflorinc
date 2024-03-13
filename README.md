@@ -6,8 +6,8 @@
 <img src="./imagenes/isometric-devops-illustration_52683-84175.jpg" width="900" height="450">
 
 
-<!-- ![GitHub Followers](https://img.shields.io/github/followers/OscarFlorinC?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/OscarFlorinC?style=social) -->
+<!-- ![GitHub Followers](https://img.shields.io/github/followers/OscarF**?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/OscarF**?style=social) -->
 
 ## Soy Ingeniero egresado de ESIME unidad Culhuacán, con 13 años de experiencia.
 
@@ -62,6 +62,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
 
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](*******) -->
+
 
 # --> Proyectos: <--
 
@@ -77,3 +79,4 @@
 [![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
 <br>[![Just Eat](https://img.shields.io/badge/Donaciones_para_tacos_🌮🌮🌮-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
 <br>[![Eats](https://img.shields.io/badge/Donaciones_alimento_para_gatos🐈🐈-black?style=for-the-badge&logo=uber-eats&logoColor=green)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)</br>
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](*******) -->
