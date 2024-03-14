@@ -69,7 +69,7 @@
 
 ## - [Git](https://github.com/OscarFlorinC/initconf_git_github) ***Configuración inicial de Git & GitHub***
 ## - [RH8](https://github.com/OscarFlorinC/initconf_rh8) ***Configuración inicial de Red Hat 8***
-<!-- ## - Programación en Python para principiantes -->
+## - [PNB](https://github.com/OscarFlorinC/python_nb) ***Python Nivel Básico***
 
 # Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
 # ¡Muchas gracias, bienvenido!!!
