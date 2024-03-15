@@ -13,7 +13,7 @@
 
 ### En Septiembre del 2022 estoy trabajando de la mano con StartUps, migrando, administrando y desarrollando sus servicios en la nube, enfocando mi carrera profesional en soluciones cloud. Desde el 2019 me he dedicado a especializarme en el desarrollo soluciones y aplicaciones en la nube publica, colaborando en distintos sectores de la tecnología de la información. 
 
-## Obteniendo 6 certificaciones de AWS, como son:
+## Obteniendo 7 certificaciones de AWS, como son:
 
 | AWS | [![Credly](https://img.shields.io/badge/Credly-FF9900?style=for-the-badge&logo=Credly&logoColor=white&labelColor=101010)](https://www.credly.com/badges/2b8dc8f8-18f9-43d6-b4f6-11152def44b5/public_url) |
 |-----:|---------------|
@@ -78,13 +78,12 @@
 ## Encuéntrame:
 
 [![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
-
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](*******) -->
+[![Instagram](https://img.shields.io/badge/Cloudevozz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cloudevozz/)
 
 
 # --> Proyectos: <--
 
-| Curso | Tecnología |
+| Curso | Descripción |
 |-----:|---------------|
 | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OscarFlorinC/initconf_git_github) | ***Configuración inicial de Git & GitHub*** |
 | [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://github.com/OscarFlorinC/initconf_rh8) | ***Configuración inicial de Red Hat 8*** |
@@ -97,7 +96,7 @@
 
 # Contacto y apoyo:
 
-[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
-<br>[![Just Eat](https://img.shields.io/badge/Donaciones_para_tacos_🌮🌮🌮-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
-<br>[![Eats](https://img.shields.io/badge/Donaciones_alimento_para_gatos_🐈🐈-black?style=for-the-badge&logo=uber-eats&logoColor=green)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)</br>
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](*******) -->
+<br>[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
+<br>[![Instagram](https://img.shields.io/badge/Cloudevozz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cloudevozz/)
+<br>[![Just_Eat](https://img.shields.io/badge/🌮🌮🌮_Donaciones_para_tacos-7A1FA2?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
+<br>[![Eats](https://img.shields.io/badge/🐈🐈_Donaciones_alimento_para_gatos-black?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)</br>
