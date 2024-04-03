@@ -1,5 +1,5 @@
 # ![huitzi](./imagenes/IMG_0680.JPG)   Hola Mundo, Soy  Oscar Florín 
-## Ingeniero en Comunicaciones y Electrónica con 13 años de experiencia, Freelance. AWS Arquitecto de Soluciones nivel Asociado, practicante de la nube GCP. | IPN OWC |.
+## Ingeniero en Comunicaciones y Electrónica con 13 años de experiencia, Freelance. AWS Arquitecto de Soluciones nivel Asociado, practicante en la nube GCP. | IPN OWC |.
 
 <!-- ![https://github.com/OscarFlorin](./imagenes/isometric-devops-illustration_52683-84175.jpg width="200" height="200") -->
 
@@ -86,6 +86,7 @@
 | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/OscarFlorinC/python_nb) | ***Python Nivel Básico*** |
 
 
+#### ***Nota: para poder navegar entre los cursos, da click en el botones que aparecen en cada sección***
 
 # Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
 # ¡Muchas gracias, bienvenido!!!
