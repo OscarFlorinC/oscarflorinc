@@ -1,7 +1,6 @@
 # ![huitzi](./imagenes/IMG_0680.JPG)   Hola Mundo, Soy  Oscar Florín 
 ## Ingeniero en Comunicaciones y Electrónica con 13 años de experiencia, Freelance. AWS Arquitecto de Soluciones nivel Asociado, practicante en la nube GCP. | IPN OWC |.
 
-<!-- ![https://github.com/OscarFlorin](./imagenes/isometric-devops-illustration_52683-84175.jpg width="200" height="200") -->
 
 <img src="./imagenes/isometric-devops-illustration_52683-84175.jpg" width="900" height="450">
 
@@ -71,14 +70,7 @@
 |     4| ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) |
 
 ### Y más...
-<!-- 
-## Encuéntrame:
 
-[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
-[![X](https://img.shields.io/badge/DevozzCloud-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/DevozzCloud)
-
-
- -->
 
 # --> Proyectos: <--
 
@@ -89,14 +81,13 @@
 | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/OscarFlorinC/python_nb) | ***Python Nivel Básico*** |
 
 
-#### ***Nota: para poder navegar entre los cursos, da click en el botones que aparecen en cada sección***
-
-# Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
-# ¡Muchas gracias, bienvenido!!!
+##### ***Nota: para poder avanzar en los cursos y ver las referencias, dar click en los botones que aparecen en cada sección***
 
 # Contacto y apoyo:
-
 <br>[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
 [![X](https://img.shields.io/badge/DevozzCloud-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/DevozzCloud)</br>
 [![Just_Eat](https://img.shields.io/badge/🌮_Donaciones_para_tacos-7A1FA2?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
 [![Eats](https://img.shields.io/badge/🐈_Donaciones_para_gatos-black?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
+
+# Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
+# ¡Muchas gracias, bienvenido!!!
