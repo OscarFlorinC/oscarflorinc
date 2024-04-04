@@ -82,7 +82,7 @@
 
 
 <!-- 
-# --> Proyectos: <--
+# -- Proyectos: --
 
 | Proyecto | Descripción |
 |-----:|---------------|
