@@ -79,6 +79,7 @@
 | [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OscarFlorinC/initconf_git_github) | ***Configuración inicial de Git & GitHub*** |
 | [![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)](https://github.com/OscarFlorinC/initconf_rh8) | ***Configuración inicial de Red Hat 8*** |
 | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/OscarFlorinC/python_nb) | ***Python Nivel Básico*** |
+| [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](../Python_Intermedio/README.md) | ***Python Nivel Intermedio*** |
 
 
 <!-- 
