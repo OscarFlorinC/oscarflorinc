@@ -10,7 +10,7 @@
 
 ## Soy Ingeniero egresado de ESIME unidad Culhuacán, con 14 años de experiencia.
 
-### En Septiembre del 2024 estoy trabajando Technical Lead en TATA CONSULTANCY SERVICES, identificando, proponiendo, planeando  servicios en la nube publica de AWS y GCP, enfocando mi carrera profesional en soluciones cloud. Desde el 2019 me he dedicado a especializarme en el desarrollo soluciones y aplicaciones en la nube publica, colaborando en distintos sectores de la tecnología de la información. 
+### En Agosto del 2024 estoy trabajando Technical Lead en TATA CONSULTANCY SERVICES, identificando, proponiendo, planeando  servicios en la nube publica de AWS y GCP, enfocando mi carrera profesional en soluciones cloud. Desde el 2019 me he dedicado a especializarme en el desarrollo soluciones y aplicaciones en la nube publica, colaborando en distintos sectores de la tecnología de la información. 
 
 ## Obteniendo 7 certificaciones de AWS, como son:
 
