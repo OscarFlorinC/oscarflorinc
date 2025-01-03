@@ -1,5 +1,5 @@
 # ![huitzi](./imagenes/IMG_0680.JPG)   Hola Mundo, Soy  Oscar Florín 
-## Ingeniero en Comunicaciones y Electrónica con 13 años de experiencia, Freelance. AWS Arquitecto de Soluciones nivel Asociado, practicante en la nube GCP. | IPN OWC |.
+## Ingeniero en Comunicaciones y Electrónica con 14 años de experiencia, Technical Lead en TATA CONSULTANCY SERVICES. AWS Arquitecto de Soluciones nivel Asociado, GCP Cloud Engineer nivel Asociado. | IPN OWC |.
 
 
 <img src="./imagenes/isometric-devops-illustration_52683-84175.jpg" width="900" height="450">
@@ -8,9 +8,9 @@
 <!-- ![GitHub Followers](https://img.shields.io/github/followers/OscarF**?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/OscarF**?style=social) -->
 
-## Soy Ingeniero egresado de ESIME unidad Culhuacán, con 13 años de experiencia.
+## Soy Ingeniero egresado de ESIME unidad Culhuacán, con 14 años de experiencia.
 
-### En Septiembre del 2022 estoy trabajando de la mano con StartUps, migrando, administrando y desarrollando sus servicios en la nube, enfocando mi carrera profesional en soluciones cloud. Desde el 2019 me he dedicado a especializarme en el desarrollo soluciones y aplicaciones en la nube publica, colaborando en distintos sectores de la tecnología de la información. 
+### En Septiembre del 2024 estoy trabajando Technical Lead en TATA CONSULTANCY SERVICES, identificando, proponiendo, planeando  servicios en la nube publica de AWS y GCP, enfocando mi carrera profesional en soluciones cloud. Desde el 2019 me he dedicado a especializarme en el desarrollo soluciones y aplicaciones en la nube publica, colaborando en distintos sectores de la tecnología de la información. 
 
 ## Obteniendo 7 certificaciones de AWS, como son:
 
@@ -28,13 +28,14 @@
 ## Obteniendo 5 certificaciones de GCP, como son:
 
 
-| GCP | [![Google_Cloud](https://img.shields.io/badge/GCP_Skills_Boost-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010)](https://www.cloudskillsboost.google/public_profiles/9b348f67-6d7e-4ff3-8dd0-c511bd50a191) |
+| GCP | [![Credly](https://img.shields.io/badge/Credly-FF9900?style=for-the-badge&logo=Credly&logoColor=white&labelColor=101010)](https://www.credly.com/badges/002f48c6-2f02-433f-9718-46fb8ef3ec0d/public_url) |
 |-----:|---------------|
-|     1| Cloud Essentials |
-|     2| Data |
-|     3| Networking & Security |
-|     4| Infrastructure |
-|     5| Cloud Computing |
+|     1| Associate Cloud Engineer |
+|     2| Cloud Essentials |
+|     3| Data |
+|     4| Networking & Security |
+|     5| Infrastructure |
+|     6| Cloud Computing |
 
 
 ## En Febrero del 2024 tome la decisión de hacer este repositorio, para que pueda ser una guía de apoyo para colaboradores, colegas y estudiantes de habla hispana.
@@ -98,8 +99,8 @@
 # Contacto y apoyo:
 <br>[![LinkedIn](https://img.shields.io/badge/Oscar_Florin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/oscarflorincontreras)
 [![X](https://img.shields.io/badge/DevozzCloud-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/DevozzCloud)</br>
-[![Just_Eat](https://img.shields.io/badge/🌮_Donaciones_para_tacos-7A1FA2?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
+<!-- [![Just_Eat](https://img.shields.io/badge/🌮_Donaciones_para_tacos-7A1FA2?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
 [![Eats](https://img.shields.io/badge/🐈_Donaciones_para_gatos-black?style=for-the-badge&logo=)](https://paypal.me/OscarFlorin?country.x=MX&locale.x=es_XC)
-
+ -->
 # Puedes seguir y apoyar mi trabajo haciendo click en "☆ Star" y en el botón de Follow.
 # ¡Muchas gracias, bienvenido!!!
