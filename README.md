@@ -1,5 +1,5 @@
 # ![huitzi](./imagenes/IMG_0680.JPG)   Hola Mundo, Soy  Oscar Florín 
-## Ingeniero en Comunicaciones y Electrónica con 14 años de experiencia, Cloud Technical Lead. AWS Arquitecto de Soluciones nivel Asociado, GCP Cloud Engineer nivel Asociado. | IPN OWC |.
+## Ingeniero en Comunicaciones y Electrónica con 16 años de experiencia, Sr. Cloud Technical Lead. AWS Arquitecto de Soluciones nivel Asociado, GCP Cloud Engineer nivel Asociado. | IPN OWC |.
 
 
 <img src="./imagenes/isometric-devops-illustration_52683-84175.jpg" width="900" height="450">
@@ -10,7 +10,7 @@
 
 ## Soy Ingeniero egresado de ESIME unidad Culhuacán, con 14 años de experiencia.
 
-### En Agosto del 2024 estoy trabajando Cloud Technical Lead, identificando, proponiendo, planeando  servicios en la nube publica de AWS y GCP, enfocando mi carrera profesional en soluciones cloud. Desde el 2019 me he dedicado a especializarme en el desarrollo soluciones y aplicaciones en la nube publica, colaborando en distintos sectores de la tecnología de la información. 
+### En Mayo del 2026 estoy trabajando como un Sr. Cloud Technical Lead, identificando, proponiendo, planeando  servicios en la nube publica de AWS y GCP, enfocando mi carrera profesional en soluciones cloud. Desde el 2019 me he dedicado a especializarme en el desarrollo soluciones y aplicaciones en la nube publica, colaborando en distintos sectores de la tecnología de la información. 
 
 ## Obteniendo 7 certificaciones de AWS, como son:
 
